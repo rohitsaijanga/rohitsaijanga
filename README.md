@@ -8,7 +8,7 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 -->
 
 ### About Me:
-📊  I'm a data analyst who is passionate about all things data.  
+📊  I'm an aspiring Business Analyst who is passionate about all things data.  
 😄  Pronouns - He/Him/His.  
 
 ### Links:  
