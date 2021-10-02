@@ -14,7 +14,9 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 ### Links:  
 👉🏽 [Tableau](https://public.tableau.com/app/profile/rohitsaijanga)  
 👉🏽 [Hackerrank](https://www.hackerrank.com/rohitsaistark)  
-👉🏽 [Google Data Analytics Certification](https://www.credly.com/badges/7ebfab83-c3f4-4218-bc69-b2c776aa32b7)
+👉🏽 [Google Data Analytics](https://www.credly.com/badges/7ebfab83-c3f4-4218-bc69-b2c776aa32b7)  
+👉🏽 [Coursera](https://www.coursera.org/user/250a8fa922cec326a5fc7bd666bd5853)  
+👉🏽 [Kaggle](https://www.kaggle.com/rohitsaistark)
 
 ### Current Projects:  
 👉🏽 [Sunny Street | Viz For Social Good](https://public.tableau.com/app/profile/rohitsaijanga/viz/SunnyStreetVizForSocialGood/Main)
