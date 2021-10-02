@@ -3,7 +3,6 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 
 ### About Me:
 📊  I'm a data analyst who is passionate about all things data.  
-📚  Always keen to learn new things. 
 😄  Pronouns - He/Him/His.  
 
 ### Links:  
@@ -16,7 +15,7 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 
 ### Fun Facts:  
 🕺🏽  Fitness Enthusiast.  
-🏉  When I'm not coding, I'll be reading historic fiction.  
+📚  When I'm not coding, I'll be reading historic fiction.  
 🎥  My favorite movie is the 2005 comedy *Vennela*.
 
 ### Follow Me:
