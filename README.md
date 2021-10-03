@@ -18,7 +18,7 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 👉🏽 [Coursera](https://www.coursera.org/user/250a8fa922cec326a5fc7bd666bd5853)  
 👉🏽 [Kaggle](https://www.kaggle.com/rohitsaistark)
 
-### Current Projects:  
+### Recent Projects:  
 👉🏽 [Sunny Street | Viz For Social Good](https://public.tableau.com/app/profile/rohitsaijanga/viz/SunnyStreetVizForSocialGood/Main)
 
 ### Fun Facts:  
