@@ -27,4 +27,4 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 🎥  My favorite movie is the 2005 comedy *Vennela*.
 
 ### 📫 How to reach me 💬:
-⛓️ [LinkedIn](https://www.linkedin.com/in/rohit-sai-janga-50305997/)
+⛓️ [LinkedIn](https://www.linkedin.com/in/rohitsaijanga/)
