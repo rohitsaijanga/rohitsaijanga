@@ -19,7 +19,7 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 👉🏽 [Kaggle](https://www.kaggle.com/rohitsaistark/code)
 
 ### Recent Projects:  
-👉🏽 [Sunny Street | Viz For Social Good](https://public.tableau.com/app/profile/rohitsaijanga/viz/SunnyStreetVizForSocialGood/Main)
+👉🏽 [Sunny Street | Viz For Social Good](https://public.tableau.com/app/profile/rohitsaijanga/viz/SunnyStreetVizForSocialGood/Main)  
 👉🏽 [Android app market on Google Play](https://app.datacamp.com/workspace/w/67839d50-38ae-41a7-8862-0fd7e5717d1e)
 
 ### Fun Facts:  
