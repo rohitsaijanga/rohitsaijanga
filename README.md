@@ -20,8 +20,9 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 
 ### Recent Projects:  
 👉🏽 [Sunny Street | Viz For Social Good](https://public.tableau.com/app/profile/rohitsaijanga/viz/SunnyStreetVizForSocialGood/Main)  
-👉🏽 [Android app market on Google Play](https://app.datacamp.com/workspace/w/67839d50-38ae-41a7-8862-0fd7e5717d1e)
-
+👉🏽 [Android app market on Google Play](https://app.datacamp.com/workspace/w/67839d50-38ae-41a7-8862-0fd7e5717d1e)  
+👉🏽 [The GitHub History of the Scala Language](https://app.datacamp.com/workspace/w/8fccfbe1-f91a-45c6-b697-1ff3faeb1abc)
+  
 ### Fun Facts:  
 🧘  Yoga and Fitness Enthusiast.  
 📚  When I'm not coding, I'll be reading historic fiction.  
