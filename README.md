@@ -6,12 +6,12 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 -->
 
 ### About Me:
-📊  I'm a Climate Finance enthusiast. Current areas of interest include CCUS, Carbon Contracts for Difference (CCfDs), and Carbon Exchange Traded Funds (ETFs).  
+📊  I'm a Climate Finance student at Imperial College London. Current areas of interest include CCUS, Carbon Contracts for Difference (CCfDs), and Carbon Exchange Traded Funds (ETFs).  
 😄  Pronouns - He/Him/His.  
 
 ### Recent Projects and Articles:
 
-👉🏽 [ML Offset Price Estimator for Voluntary Carbon Markets](https://www.ccarbon.info/analytics-toolkit-details/?pid=NTgyNzA0)  
+👉🏽 [ML based Offset Price Estimator for Voluntary Carbon Markets](https://www.ccarbon.info/analytics-toolkit-details/?pid=NTgyNzA0)  
 👉🏽 [Evolution of pureplay Carbon ETFs](https://www.ccarbon.info/article/evolution-of-pureplay-carbon-etfs)  
 👉🏽 [LCFS Ratcheting Mechanism: Pathway to an efficient market](https://www.ccarbon.info/article/lcfs-ratcheting-mechanism-pathway-to-an-efficient-market)  
 👉🏽 [California Climate Investment: Measuring the Impact of Cap and Trade Funding](https://www.ccarbon.info/article/california-climate-investment-measuring-the-impact-of-cap-and-trade-funding)  
